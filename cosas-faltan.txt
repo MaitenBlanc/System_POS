@@ -1,9 +1,0 @@
-menu.php:
- - Crear pestaña ingresos e implementarla.
- - Crear pestaña ventas y clientes.
- - Crear consultar compras y consultar ventas.
-
-dashboard.php:
- - Implementar pestaña dashboard, hacer dashboard.js.
-
-Hacer que no recargue la página cuando cambio de pestaña.
